@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project Specific
+
+# UV Virtual Environment
+predictive/
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment Files
+.env.*
+!.env.example
